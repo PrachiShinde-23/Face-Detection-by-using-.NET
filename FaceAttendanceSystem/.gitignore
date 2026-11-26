@@ -1,0 +1,6 @@
+bin/
+obj/
+.vs/
+*.user
+# Runtime data (face images, database, trained model) - private, do not upload
+data/
